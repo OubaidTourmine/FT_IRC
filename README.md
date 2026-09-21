@@ -1,6 +1,4 @@
-*This project has been created as part of the 42 curriculum by outourmi, yel-qori.*
-
-# ft_irc
+# FT_IRC
 
 ## Description
 
